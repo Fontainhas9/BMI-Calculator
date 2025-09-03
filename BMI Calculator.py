@@ -115,7 +115,5 @@ label2.place(x=150, y=400)
 label3 = Label(root, font="arial 12", bg="#f0f1f5")
 label3.place(x=80, y=430)
 
-# --- Rodapé ---
-Label(root, width=470, height=80, bg="lightblue").place(x=0, y=500)
 
 root.mainloop()
